@@ -7,7 +7,7 @@ public class ClassePrincipal {
 	
 	public static void main (String[] args) {
 		
-		Scanner scan = new Scanner(System.in);
+	Scanner scan = new Scanner(System.in);
         System.out.print("Informe o Symbol: ");
         String symbol = scan.nextLine();
         scan.close();
